@@ -25,10 +25,10 @@ It fetches live data from a public API and displays it in a clean, responsive da
 
 ```bash
 # Clone the repository
-git clone https://github.com/Aymbal/covid-tracker-react.git
+git clone https://github.com/Aymbal/Covid-tracker.git 
 
 # Navigate to the project folder
-cd covid-tracker-react
+cd Covid-tracker
 
 # Install dependencies
 npm install
